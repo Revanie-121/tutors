@@ -1,0 +1,6 @@
+{
+  "name": "Panduan Instalasi LucidaDL Windows",
+  "description": "Tutorial interaktif langkah demi langkah cara menginstal dan menjalankan tools lucidadl (lucida.exe) di Windows menggunakan Python, Microsoft C++ Build Tools, dan pipx.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
